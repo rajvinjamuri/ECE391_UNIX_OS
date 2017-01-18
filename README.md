@@ -1,4 +1,7 @@
 ECE391_UNIX_OS
 ==============
+Machine problems and projects written for the "ECE391: Computer Systems Engineering" course at UIUC. 
+All actual code is in a private repo to protect from plagiarism.
+Please contact me for access/details/info.
 
-Placeholder for code written for ECE391 which is currently a private repository. Code is in a private repo to protect from plagiarism. Please contact for access.
+Project webpage: https://rajvinjamuri.wordpress.com/projects-and-activities/yesos-a-unix-like-x86-operating-system/
